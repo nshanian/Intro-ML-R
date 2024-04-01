@@ -4,7 +4,7 @@ The workflow in this repository was adapted from a workshop given by Stanford Un
 
 [Click here](https://htmlpreview.github.io/?https://github.com/nshanian/Documents/blob/main/Intro-ML-R.html) for the HTML version of this workflow with the output and the embedded plots.
 
-The R markdown files provide a gentle introduction to machine learning vocabulary and concepts. They cover the basics of ensemble machine learning practices using various R packages. `Intro_ML_R.Rmd` can be run as a single workflow or, for convenience, broken up into raw data pre-processing and final data analysis steps. To do this, run `ML_data_preprocess.Rmd` and save the output from steps 1 - 7 (ending in line 300), then wipe your global environment clean and run `SuperLearner.Rmd`. 
+The R markdown files provide a gentle introduction to machine learning vocabulary and concepts. They cover the basics of ensemble machine learning practices using various R packages. `Intro_ML_R.Rmd` can be run as a single workflow or, for convenience, broken up into raw data pre-processing and final data analysis steps. To do this, run `ML_data_preprocess.Rmd` and save the output from steps 1 - 7 (ending in line 306), then wipe your global environment clean and run `SuperLearner.Rmd`. 
 
 The reference data and image files are provided in thier respective subfolders. 
 
